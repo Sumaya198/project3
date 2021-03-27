@@ -3,6 +3,7 @@
 ## Description
 
 This application is a household management application that will generate the jobs that you need to do TODAY. 
+Deployed link : https://sortedapp.herokuapp.com
 
 #### User Story : 
 **AS:** A busy working adult. 
